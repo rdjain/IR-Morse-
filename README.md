@@ -5,4 +5,5 @@ Morse transmitter is a purely 555 timer based analog circuit.It has two stages, 
 On the receiver side we have a TSOP0038 IR receiver which receives information in form of 38kHz burst cycles,this then sends the demodulated signal to arduino for further analysis and the received data is displayed on an 16x2 LCD.
 This is not exactly a morse type receiver, but almost one with a few minor changes.
 
-It also has an Easter Egg :p  
+It also has an Easter Egg :p  
+Project by RD Jain and Varun Kumar Srivastav
